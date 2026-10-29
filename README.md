@@ -1,4 +1,4 @@
-# Day 3 — Statistical Analysis Toolkit
+# Statistical Analysis Toolkit
 
 A Python project for exploring agent deposit and transaction data in `data/agent_deposits.csv`. The analysis covers central tendency, variability, data validation, and possible outliers.
 
